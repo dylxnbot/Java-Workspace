@@ -1,0 +1,6 @@
+WEAPON|Spear|20
+WEAPON|Dart|10
+WEAPON|Sword|30
+POTION|Mugwort|20
+POTION|Wolf's Bane|50
+POTION|Arnica|35

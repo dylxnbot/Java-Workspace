@@ -1,0 +1,5 @@
+The Hobbit|J.R.R. Tolkien|12.99|9780547928227|3
+1984|George Orwell|10.50|9780451524935|4
+The Great Gatsby|F. Scott Fitzgerald|9.75|9780743273565|2
+To Kill a Mockingbird|Harper Lee|11.25|9780061120084|5
+Fahrenheit 451|Ray Bradbury|8.99|9781451673319|3

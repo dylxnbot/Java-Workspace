@@ -1,0 +1,8 @@
+Castle Gate
+Grand Hall
+West Corridor
+Library
+Dungeon
+Armory
+Tower
+Courtyard

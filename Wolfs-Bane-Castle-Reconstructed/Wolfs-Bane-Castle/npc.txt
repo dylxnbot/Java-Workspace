@@ -1,0 +1,8 @@
+WITCH|Griselda|35|18
+WITCH|Astrid|40|20
+WITCH|Helga|45|22
+WITCH|Morag|50|25
+KNIGHT|Constans|100|The castle rewards patience.
+KNIGHT|Godwin|100|Beware the witches ahead.
+KNIGHT|Godfrey|100|A good weapon may save your life.
+KNIGHT|Fendrel|100|Wolf's Bane is hidden somewhere inside.
